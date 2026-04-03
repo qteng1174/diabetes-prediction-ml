@@ -41,7 +41,7 @@ Key findings:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### Train-Test Setup
 - 80/20 stratified split  
@@ -126,3 +126,19 @@ diabetes-prediction-ml/
 │   └── diabetes_prediction_presentation.pdf
 │
 └── README.md
+```
+
+---
+
+## Tools & Libraries
+- Python  
+- pandas, NumPy  
+- scikit-learn  
+- XGBoost  
+- matplotlib, seaborn  
+
+---
+
+## Author
+Yunelle Teng  
+Applied Data Science @ University of Chicago
